@@ -34,3 +34,6 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+# portfolio
+This is my personal portfolio website built with Next.js, React, Tailwind CSS, and TypeScript. It showcases my skills, projects, achievements, and includes a contact form for easy communication. The site is fully responsive and features smooth animations for an engaging user experience. Deployed on Vercel for fast and reliable access.
